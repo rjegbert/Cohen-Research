@@ -1,0 +1,44 @@
+{% extends "my_first_app/base.html" %}
+
+{% load staticfiles %}
+
+{% block scripts %}
+  {{ block.super }}
+   <link rel="stylesheet" href="https://openlayers.org/en/v3.2.1/css/ol.css" type="text/css">
+    <style>
+      .map {
+        height: 750px;
+        width: 100%;
+      }
+    </style>
+  <script src="https://openlayers.org/en/v3.2.1/build/ol.js" type="text/javascript"></script>
+  <script src="{% static 'my_first_app/js/map.js' %}" type="text/javascript"></script>
+{% endblock %}
+
+
+{% block app_navigation_items %}
+  <li><a href="{% url 'my_first_app:echo_name' %}">Name Echoer</a></li>
+
+<div class="checkbox">
+  <label>
+    <input type="checkbox" data-toggle="toggle">
+    Option one is enabled
+  </label>
+</div>
+
+ <button name="execute" class="btn btn-default btn-success" type='submit'
+
+                onclick="app.gogolayer(1);">Bye Bye Map
+ </button>
+{% endblock %}
+
+{% block app_content %}
+
+  <div id="mymap" class="map"></div>
+    <div id="popup" class="popup"></div>
+
+{% endblock %}
+
+{% block app_actions %}
+  <a href="{% url 'my_first_app:map' %}" class="btn btn-default">Go To Map</a>
+{% endblock %}
