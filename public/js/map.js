@@ -188,7 +188,7 @@ map.on('singleclick', function(evt) {
 //                  {'INFO_FORMAT': 'text/xml', 'FEATURE_COUNT': 50});
 //              };
             map.forEachFeatureAtPixel(pixel, function(feature) {
-            var displayContent = feature.get('description');
+            var displayContent = "<h6>Flood Location: " + feature.get('Flood_Location') + "</h6>" + "<p>Flood Date: " + feature.get('Flood_Date') + "<br>" + "Affected Area: " + feature.get('Flood_Area') + "</p>";
 
 
           $(element).popover({

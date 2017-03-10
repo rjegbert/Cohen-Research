@@ -10,90 +10,186 @@
     <Placemark id="ID_00000">
       <name>Willow Creek</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Willow Creek</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>0</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Flood_Date</td>
-<td>5/28/2016</td>
-</tr>
-<tr>
-<td>Start_Time</td>
-<td>16:56:12</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>End_Time</td>
-<td>16:56:44</td>
-</tr>
-<tr>
-<td>Sensor</td>
-<td>Landsat 8 OLI</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Sensor_Res</td>
-<td>30m</td>
-</tr>
-<tr>
-<td>Flood_km2</td>
-<td>15.698362</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Hydrograph</td>
-<td><a target="_blank" href="http://tinyurl.com/z8h9ey4">http://tinyurl.com/z8h9ey4</a></td>
-</tr>
-<tr>
-<td>USGS_Gage</td>
-<td>08068325</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Q_at_Image</td>
-<td>2930</td>
-</tr>
-<tr>
-<td>DASqKm</td>
-<td>106</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>River_Name</td>
-<td>Willow Creek</td>
-</tr>
-<tr>
-<td>Event_MaxQ</td>
-<td>3120</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>State</td>
-<td>TX</td>
-</tr>
-<tr>
-<td>HUC6_ID</td>
-<td>120401</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Inst</td>
-<td>Surface Dynamics Modeling Lab - Uni Alabama</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Willow Creek</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Flood_Date</td>
+
+<td>5/28/2016</td>
+
+</tr>
+
+<tr>
+
+<td>Start_Time</td>
+
+<td>16:56:12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>End_Time</td>
+
+<td>16:56:44</td>
+
+</tr>
+
+<tr>
+
+<td>Sensor</td>
+
+<td>Landsat 8 OLI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sensor_Res</td>
+
+<td>30m</td>
+
+</tr>
+
+<tr>
+
+<td>Flood_km2</td>
+
+<td>15.698362</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hydrograph</td>
+
+<td><a target="_blank" href="http://tinyurl.com/z8h9ey4">http://tinyurl.com/z8h9ey4</a></td>
+
+</tr>
+
+<tr>
+
+<td>USGS_Gage</td>
+
+<td>08068325</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Q_at_Image</td>
+
+<td>2930</td>
+
+</tr>
+
+<tr>
+
+<td>DASqKm</td>
+
+<td>106</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>River_Name</td>
+
+<td>Willow Creek</td>
+
+</tr>
+
+<tr>
+
+<td>Event_MaxQ</td>
+
+<td>3120</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>State</td>
+
+<td>TX</td>
+
+</tr>
+
+<tr>
+
+<td>HUC6_ID</td>
+
+<td>120401</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Inst</td>
+
+<td>Surface Dynamics Modeling Lab - Uni Alabama</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
+
+<ExtendedData>
+        <Data name = "Flood_Location">
+            <value>Willow Creak near Tomball, TX</value>
+        </Data>
+        <Data name = "Flood_Date">
+            <value>May 28, 2016</value>
+        </Data>
+        <Data name = "Flood_Area">
+            <value>15.7 km^2</value>
+        </Data>
+      </ExtendedData>
+
       <styleUrl>#PolyStyle00</styleUrl>
       <MultiGeometry>
         <Polygon>

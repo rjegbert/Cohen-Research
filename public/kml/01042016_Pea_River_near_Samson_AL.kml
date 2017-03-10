@@ -10,90 +10,187 @@
     <Placemark id="ID_00000">
       <name>Pea River</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Pea River</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>0</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Flood_Date</td>
-<td>1/4/2016</td>
-</tr>
-<tr>
-<td>Start_Time</td>
-<td>16:13:22</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>End_Time</td>
-<td>16:13:54</td>
-</tr>
-<tr>
-<td>Sensor</td>
-<td>Landsat 8 OLI</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Sensor_Res</td>
-<td>30m</td>
-</tr>
-<tr>
-<td>Flood_km2</td>
-<td>61.007755</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Hydrograph</td>
-<td><a target="_blank" href="http://tinyurl.com/zbqcj6b">http://tinyurl.com/zbqcj6b</a></td>
-</tr>
-<tr>
-<td>USGS_Gage</td>
-<td>02364500, 02365000</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Q_at_Image</td>
-<td>15700</td>
-</tr>
-<tr>
-<td>DASqKm</td>
-<td>3061</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>River_Name</td>
-<td>Pea River</td>
-</tr>
-<tr>
-<td>Event_MaxQ</td>
-<td>44200</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>State</td>
-<td>AL</td>
-</tr>
-<tr>
-<td>HUC6_ID</td>
-<td>031402</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Inst</td>
-<td>Surface Dynamics Modeling Lab - Uni Alabama</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pea River</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Flood_Date</td>
+
+<td>1/4/2016</td>
+
+</tr>
+
+<tr>
+
+<td>Start_Time</td>
+
+<td>16:13:22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>End_Time</td>
+
+<td>16:13:54</td>
+
+</tr>
+
+<tr>
+
+<td>Sensor</td>
+
+<td>Landsat 8 OLI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sensor_Res</td>
+
+<td>30m</td>
+
+</tr>
+
+<tr>
+
+<td>Flood_km2</td>
+
+<td>61.007755</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hydrograph</td>
+
+<td><a target="_blank" href="http://tinyurl.com/zbqcj6b">http://tinyurl.com/zbqcj6b</a></td>
+
+</tr>
+
+<tr>
+
+<td>USGS_Gage</td>
+
+<td>02364500, 02365000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Q_at_Image</td>
+
+<td>15700</td>
+
+</tr>
+
+<tr>
+
+<td>DASqKm</td>
+
+<td>3061</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>River_Name</td>
+
+<td>Pea River</td>
+
+</tr>
+
+<tr>
+
+<td>Event_MaxQ</td>
+
+<td>44200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>State</td>
+
+<td>AL</td>
+
+</tr>
+
+<tr>
+
+<td>HUC6_ID</td>
+
+<td>031402</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Inst</td>
+
+<td>Surface Dynamics Modeling Lab - Uni Alabama</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
+
+
+      <ExtendedData>
+        <Data name = "Flood_Location">
+            <value>Pea River near Samson, AL</value>
+        </Data>
+        <Data name = "Flood_Date">
+            <value>Jan 4, 2016</value>
+        </Data>
+        <Data name = "Flood_Area">
+            <value>61 km^2</value>
+        </Data>
+      </ExtendedData>
+
       <styleUrl>#PolyStyle00</styleUrl>
       <MultiGeometry>
         <Polygon>

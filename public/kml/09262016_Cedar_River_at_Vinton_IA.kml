@@ -10,90 +10,186 @@
     <Placemark id="ID_00000">
       <name>Cedar River</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Cedar River</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>0</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Flood_Date</td>
-<td>9/26/2016</td>
-</tr>
-<tr>
-<td>Start_Time</td>
-<td>16:47:25</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>End_Time</td>
-<td>16:47:57</td>
-</tr>
-<tr>
-<td>Sensor</td>
-<td>Landsat 8 OLI</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Sensor_Res</td>
-<td>30m</td>
-</tr>
-<tr>
-<td>Flood_km2</td>
-<td>233.071609</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Hydrograph</td>
-<td><a target="_blank" href="http://tinyurl.com/joz3scj">http://tinyurl.com/joz3scj</a></td>
-</tr>
-<tr>
-<td>USGS_Gage</td>
-<td>05464315, 05464420, 05464480, 05464500, 05465000</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Q_at_Image</td>
-<td>86200</td>
-</tr>
-<tr>
-<td>DASqKm</td>
-<td>15644</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>River_Name</td>
-<td>Cedar River</td>
-</tr>
-<tr>
-<td>Event_MaxQ</td>
-<td>88000</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>State</td>
-<td>IA</td>
-</tr>
-<tr>
-<td>HUC6_ID</td>
-<td>070802</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Inst</td>
-<td>Dartmouth Flood Observatory - Uni Colorado Boulder</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cedar River</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Flood_Date</td>
+
+<td>9/26/2016</td>
+
+</tr>
+
+<tr>
+
+<td>Start_Time</td>
+
+<td>16:47:25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>End_Time</td>
+
+<td>16:47:57</td>
+
+</tr>
+
+<tr>
+
+<td>Sensor</td>
+
+<td>Landsat 8 OLI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sensor_Res</td>
+
+<td>30m</td>
+
+</tr>
+
+<tr>
+
+<td>Flood_km2</td>
+
+<td>233.071609</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hydrograph</td>
+
+<td><a target="_blank" href="http://tinyurl.com/joz3scj">http://tinyurl.com/joz3scj</a></td>
+
+</tr>
+
+<tr>
+
+<td>USGS_Gage</td>
+
+<td>05464315, 05464420, 05464480, 05464500, 05465000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Q_at_Image</td>
+
+<td>86200</td>
+
+</tr>
+
+<tr>
+
+<td>DASqKm</td>
+
+<td>15644</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>River_Name</td>
+
+<td>Cedar River</td>
+
+</tr>
+
+<tr>
+
+<td>Event_MaxQ</td>
+
+<td>88000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>State</td>
+
+<td>IA</td>
+
+</tr>
+
+<tr>
+
+<td>HUC6_ID</td>
+
+<td>070802</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Inst</td>
+
+<td>Dartmouth Flood Observatory - Uni Colorado Boulder</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
+
+     <ExtendedData>
+        <Data name = "Flood_Location">
+            <value>Cedar River at Vinton, IA</value>
+        </Data>
+        <Data name = "Flood_Date">
+            <value>September 26, 2016</value>
+        </Data>
+        <Data name = "Flood_Area">
+            <value>233.1 km^2</value>
+        </Data>
+      </ExtendedData>
+
       <styleUrl>#PolyStyle00</styleUrl>
       <MultiGeometry>
         <Polygon>
